@@ -1,0 +1,296 @@
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 1
+
+Clinical Context
+
+Comments And Suggestions Of The Risk Analysis
+
+Observations
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ANSD: Mild autonomic dysfunction detected.
+Increased physical activity is suggested.
+ 
+ 
+ 
+
+SudoD:
+
+EndoD: Moderate Endothelial dysfunction has been detected. Further conventional cardiovascular examinations are suggested.
+IR:
+CMR:
+SFN:
+CAN:
+
+Borderline result. Lifestyle change is suggested.
+Moderate abnormal result. Further lab tests (Fasting BG and OGTT) are suggested
+Moderate result. Further supplementary exams comprised in Toronto Clinical Neuropathy Score are suggested.
+Borderline result. If the patient undergoing a diabetic treatment, target HbA1c according to the hypoglycemia risk
+Mild failure of parasympathetic response.
+Significant sympathetic over response is detected.
+
+PTG CVD:The result is in normal range.
+
+*Off label use. Results have been tested in clinical studies.
+
+The correlations between 2h- OGTT Glucose and Cardiometabolic
+Risk score (CMRS) were:  r = 0.56 (p = 0.003).
+ 
+Small fiber neuropathy risk using the sudomotor response score
+had a sensitivity of 91.4 % and specificity of 79.1% to detect
+diabetic neuropathy symptoms score >=1.
+ 
+PTG CVD is calculated from the PTG Spectral Analysis markers.
+Comparing group with CAD and control group, spectral Analysis Markers 
+have a sensitivity of 84.6% and specificity of 96.8% to detect CAD.
+Off label use. Results have been tested in clinical studies.
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 2
+
+Risk Factors Chart Meaning:
+STRESS.I = Marker of sympathetic activation
+HF = Marker of parasympathetic activity
+LF/HF: Marker of mental stress
+SDNN = Marker of ANS activity
+RMSSD = Marker of parasympathetic activity
+T.P. = Marker of ANS overall activity
+Baseline = Marker of microcirculation
+Latency = Marker of the sweat nerve velocity
+Amplitude = Marker of the sweat gland function
+SPRV2 = Marker of norepinephrine response
+DPRS = Marker of adrenergic response
+SPRS = Marker of adrenergic response
+VALS.R = Marker of baroreceptor response
+K30/15 = Marker of cardiovascular function
+E/I R = Marker of parasympathetic response
+ANSD R. = ANS Dysfunction Risk
+SFN R. = Small Fiber Neuropathy Risk
+CAN R. = Cardiac Autonomic Neuropathy Risk
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 3
+
+Risk Factors Chart Meaning:
+Systolic = Systolic pressure
+Diastolic = Diastolic pressure
+RI = Marker of medium artery stiffness
+PTGVLFi = Homeostatic Marker*
+PTGTP = Homeostatic Marker*
+STRESS.I = Marker of hepatic glycolysis
+FM = Fat mass
+T. Power = Marker of ANS overall activity
+Baseline = Marker of skin microcirculation
+PTG I = Homeostatic Marker*
+PTG R = Homeostatic Marker*
+CAN S. = Cardiac Autonomic Neuropathy Score
+CMR = Cardiometabolis Risk
+CVD = Cardiovascular Disease
+ 
+* Homeostatic Marker are correlated to
+autonomic nervous system and endothelial
+function
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 4
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 5
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 6
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+Patient Name:
+Weight:
+Height:
+Date of birth:
+Gender:
+
+Joseph Dicesare
+207 Lbs   BMI: 29.7
+5'  10"
+9/8/1936
+Male
+
+9/18/2019  15:40
+
+       RM-3A STATUS REPORT
+
+PHYSICIAN'S FULL REPORT SUMMARY
+
+ 
+ 
+Referral:  
+
+Page 7
+
+DISCLAIMERS: This report is only for the referring physician and cannot be promoted. The patient profile risk analysis chart and comments and suggestions cannot be used for diagnostic purposes.
+It is the referring physician's responsibility to make proper judgments based on these numbers and suggestions. All results should be considered within the clinical context of the patient's case
+history, symptoms, known diagnosis, findings from other diagnostics studies, current medications, treatment plan and therapies.
+
+
